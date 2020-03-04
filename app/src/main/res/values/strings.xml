@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Learning App test</string>
+    <string name="notes">Notes</string>
+    <string name="solutions">Solutions</string>
+    <string name="formulas">Formulas</string>
+    <string name="research">Research</string>
+    <string name="about_us">About us</string>
+    <string name="practice">Practice</string>
+    <string name="learning_app">LEARNING APP</string>
+    <string name="mathematics">Mathematics</string>
+    <string name="english">English</string>
+    <string name="g_k">G.K</string>
+    <string name="physics">PHYSICS</string>
+    <string name="chemistry">Chemistry</string>
+    <string name="biology">BIOLOGY</string>
+    <string name="smart_learning">SMART LEARNING</string>
+    <string name="the_way_you_learn">the way you learn...</string>
+    <string name="icon">ICON</string>
+    <string name="index">INDEX</string>
+    <string name="chapter_one">chapter one</string>
+    <string name="chapter_two">chapter two</string>
+    <string name="chapter_three">chapter three</string>
+    <string name="derivative">DERIVATIVE</string>
+    <string name="intergration">INTERGRATION</string>
+    <string name="trignometry">TRIGNOMETRY</string>
+    <string name="_01_11_2019">01/11/2019</string>
+    <string name="established_date">Established date</string>
+    <string name="team_members_aakash_bohara_bandana_adhikari_kushal_b_k_sukhchandra_sarma">Team members: Aakash Bohara Bandana Adhikari Kushal B.K Sukhchandra Sarma</string>
+    <string name="start_practice">start practice</string>
+    <string name="highscore_0">Highscore: 0</string>
+    <string name="score_0">Score: 0</string>
+    <string name="question_1_x">Question: 1/x</string>
+    <string name="_00_30">00:30</string>
+    <string name="option_1">option 1</string>
+    <string name="option_2">option 2</string>
+    <string name="option_3">option 3</string>
+    <string name="question1_n_question2_n_question3">question1   question2   question3</string>
+    <string name="confirm">Confirm</string>
+
+</resources>

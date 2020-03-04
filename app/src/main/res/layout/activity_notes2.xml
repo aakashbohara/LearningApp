@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/books"
+    tools:context=".notes">
+
+    <Button
+        android:id="@+id/button_mathematics"
+        android:layout_width="wrap_content"
+        android:layout_height="148dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="212dp"
+        android:layout_marginTop="43dp"
+        android:layout_marginEnd="44dp"
+        android:layout_marginBottom="540dp"
+        android:backgroundTint="#CDDC39"
+        android:text="@string/mathematics" />
+
+    <Button
+        android:id="@+id/button_english"
+        android:layout_width="wrap_content"
+        android:layout_height="145dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="212dp"
+        android:layout_marginTop="209dp"
+        android:layout_marginEnd="44dp"
+        android:layout_marginBottom="376dp"
+        android:backgroundTint="#FFC107"
+        android:text="@string/english" />
+
+    <Button
+        android:id="@+id/button_gk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="215dp"
+        android:layout_marginTop="378dp"
+        android:layout_marginEnd="44dp"
+        android:layout_marginBottom="212dp"
+        android:backgroundTint="#FF5722"
+        android:text="@string/g_k" />
+
+    <Button
+        android:id="@+id/button_physics"
+        android:layout_width="wrap_content"
+        android:layout_height="149dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="42dp"
+        android:layout_marginEnd="228dp"
+        android:layout_marginBottom="540dp"
+        android:backgroundTint="#8BC34A"
+        android:text="@string/physics" />
+
+    <Button
+        android:id="@+id/button_chemistry"
+        android:layout_width="wrap_content"
+        android:layout_height="145dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="209dp"
+        android:layout_marginEnd="228dp"
+        android:layout_marginBottom="376dp"
+        android:backgroundTint="#FFEB3B"
+        android:text="@string/chemistry" />
+
+    <Button
+        android:id="@+id/button_biology"
+        android:layout_width="wrap_content"
+        android:layout_height="146dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="375dp"
+        android:layout_marginEnd="227dp"
+        android:layout_marginBottom="210dp"
+        android:backgroundTint="#FF9800"
+        android:text="@string/biology" />
+</RelativeLayout>
